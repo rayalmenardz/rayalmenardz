@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👋 Hi, I’m @rayalmenardz<br>👀 I’m interested in sports, business & data analysis<br>🌱 I’m currently enhancing my Python programming <br>📫 How to reach me: ray.almenardz@gmail.com<br>🎯 Goals: Learn a lot and have fun with it!</p>
+<p align="left">👋 Hi, I’m @rayalmenardz<br>👀 I’m interested in sports, business & data analysis<br>🌱 I’m currently enhancing my Python programming <br>📫 How to reach me: ray.almenardz@gmail.com<br>🎯 My goal is to learn a lot and have fun with it!</p>
 
 ###
 
